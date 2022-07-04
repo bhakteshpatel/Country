@@ -1,0 +1,20 @@
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.region-parent {
+  text-align: center;
+  transition: all 0.3s ease;
+  border: 2px solid rgba(237, 20, 20, 0.8);
+  margin: 50px;
+}
+
+.region-parent:hover {
+  border: 2px solid #1511f8;
+  
+}
+
+.progress {
+  margin: 20px auto;
+}
